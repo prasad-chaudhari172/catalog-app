@@ -20,7 +20,7 @@ The Catalog Flutter App is an e-commerce app that showcases various products in 
 <!-- Add your app screenshots here -->
 <p align="center">
   <img src="Loginwala.PNG" alt="Screenshot 1" width="250">
-  <img src="HomePage.PNG" alt="Screenshot 2" width="250">
+  <img src="Homepage.PNG" alt="Screenshot 2" width="250">
   <img src="Drawer.PNG" alt="Screenshot 2" width="250">
 </p>
 
